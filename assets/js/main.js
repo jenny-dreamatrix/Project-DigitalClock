@@ -1,5 +1,3 @@
-
-
 let monate = [
     "Januar",
     "Februar",
@@ -49,4 +47,3 @@ if(seconds < 10){
 datumOutput.innerHTML = `${weekday}, der ${day}. ${monthName} ${year}`;
 hourOutput.innerHTML = hour;
 minutesOutput.innerHTML = minute;
-
